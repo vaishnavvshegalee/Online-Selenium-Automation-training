@@ -1,0 +1,18 @@
+2025-10-26 23:06:13,821 - Log4JLogging -INFO - open browser instance
+2025-10-26 23:06:13,887 - Log4JLogging -INFO - window maximized
+2025-10-26 23:06:13,896 - Log4JLogging -WARN - Waiting...
+2025-10-26 23:06:14,966 - Log4JLogging -INFO - Application launched
+2025-10-26 23:06:25,566 - Log4JLogging -INFO - web element not found
+2025-10-26 23:06:27,175 - Log4JLogging -INFO - broswer closed
+2025-10-26 23:07:57,323 - Log4JLogging -INFO - open browser instance
+2025-10-26 23:07:57,390 - Log4JLogging -INFO - window maximized
+2025-10-26 23:07:57,415 - Log4JLogging -INFO - Waiting...
+2025-10-26 23:07:58,575 - Log4JLogging -INFO - Application launched
+2025-10-26 23:08:08,702 - Log4JLogging -INFO - web element not found
+2025-10-26 23:08:09,343 - Log4JLogging -INFO - broswer closed
+2025-10-26 23:08:58,903 - Log4JLogging -INFO - open browser instance
+2025-10-26 23:08:58,966 - Log4JLogging -INFO - window maximized
+2025-10-26 23:08:58,986 - Log4JLogging -INFO - Waiting...
+2025-10-26 23:09:00,657 - Log4JLogging -INFO - Application launched
+2025-10-26 23:09:00,815 - Log4JLogging -INFO - web element found
+2025-10-26 23:09:01,546 - Log4JLogging -INFO - broswer closed
