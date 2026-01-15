@@ -59,6 +59,9 @@ public class MasterPage {
 		driver.get(configPropRef.getProperty("URL_1"));
 		driver.findElement(By.xpath(locatorsPropRef.getProperty("Email")))
 				.sendKeys(testDataPropRef.getProperty("testData1"));
-
+		
 	}
+	
+	
+
 }

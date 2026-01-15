@@ -9,6 +9,11 @@
           <include name="doLogin"/>
         </methods>
       </class> <!-- javaPackage.TakeScreenShotOnFailure2 -->
+      <class name="javaPackage.AssertionDemo1">
+        <methods>
+          <include name="TestCase1"/>
+        </methods>
+      </class> <!-- javaPackage.AssertionDemo1 -->
       <class name="javaPackage.TestNGDemo6">
         <methods>
           <include name="b"/>
@@ -16,6 +21,17 @@
           <include name="z"/>
         </methods>
       </class> <!-- javaPackage.TestNGDemo6 -->
+      <class name="javaPackage.TestNGDemo8">
+        <methods>
+          <include name="setEnv"/>
+          <include name="enterData"/>
+        </methods>
+      </class> <!-- javaPackage.TestNGDemo8 -->
+      <class name="javaPackage.SeleniumGridDemo1">
+        <methods>
+          <include name="login" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- javaPackage.SeleniumGridDemo1 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

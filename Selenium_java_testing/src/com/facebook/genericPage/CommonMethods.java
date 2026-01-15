@@ -26,9 +26,10 @@ public class CommonMethods extends MasterPage {
 	}
 
 //	get text of web element 
-	public void getWebElementText(String xpathKey) {
+	public String getWebElementText(String xpathKey) {
 		String getTextOfWebElement = driver.findElement(By.xpath(locatorsPropRef.getProperty(xpathKey))).getText();
 		System.out.println(getTextOfWebElement);
+		return getTextOfWebElement;
 	}
 
 //	click method
@@ -77,7 +78,7 @@ public class CommonMethods extends MasterPage {
 
 //		Loading the workbook
 		XSSFWorkbook wb = new XSSFWorkbook(fis);
-		XSSFSheet sh = wb.getSheet(excelSheetName);
+		XSSFSheet sh = wb.getSheet(configPropRef.getProperty(excelSheetName));
 		String abc = sh.getRow(rowNo).getCell(columnNo).getStringCellValue();
 
 		driver.findElement(By.xpath(locatorsPropRef.getProperty(xpathKey))).sendKeys(abc);

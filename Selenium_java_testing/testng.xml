@@ -5,8 +5,10 @@
     <classes>
       <class name="javaPackage.AssertionDemo1"/>
       <class name="javaPackage.TestNGDemo8"/>
-      <class name="javaPackage.TestNGDemo7"/>
+      <class name="javaPackage.SeleniumGridDemo1"/>
       <class name="javaPackage.TakeScreenShotOnFailure2"/>
+      <class name="javaPackage.TestNGDemo7"/>
+      <class name="com.facebook.tests.LoginTest"/>
       <class name="javaPackage.TestNGDemo6"/>
       <class name="javaPackage.TestNGDemo5"/>
       <class name="javaPackage.TestNGDemo4"/>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="E:/Testing_Course_by_Shammi_jha/Training Materials/Training Materials/Jars File/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="E:/Testing_Course_by_Shammi_jha/Training Materials/Training Materials/Jars File/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
@@ -58,5 +53,6 @@
 	<classpathentry kind="lib" path="E:/Testing_Course_by_Shammi_jha/Training Materials/Training Materials/Jars File/selenium-java-2.53.0/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="E:/Testing_Course_by_Shammi_jha/Training Materials/Training Materials/Jars File/selenium-java-2.53.0/selenium-2.53.0/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="E:/Testing_Course_by_Shammi_jha/Training Materials/Training Materials/Jars File/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -16,3 +16,80 @@
 2025-10-26 23:09:00,657 - Log4JLogging -INFO - Application launched
 2025-10-26 23:09:00,815 - Log4JLogging -INFO - web element found
 2025-10-26 23:09:01,546 - Log4JLogging -INFO - broswer closed
+2026-01-13 17:12:56,972 - LoginPage - INFO - clicked on email field
+2026-01-13 17:12:57,067 - LoginPage - INFO - Entered email
+2026-01-13 17:12:57,166 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:12:57,261 - LoginPage - INFO - Entered Password field
+2026-01-13 17:12:59,416 - LoginPage - INFO - Cleared email field
+2026-01-13 17:13:01,557 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:13:01,600 - LoginPage - INFO - Fetching login page text
+2026-01-13 17:14:30,637 - LoginPage - INFO - clicked on email field
+2026-01-13 17:14:30,743 - LoginPage - INFO - Entered email
+2026-01-13 17:14:30,876 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:14:30,948 - LoginPage - INFO - Entered Password field
+2026-01-13 17:14:33,057 - LoginPage - INFO - Cleared email field
+2026-01-13 17:14:35,155 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:14:35,194 - LoginPage - INFO - Fetching login page text
+2026-01-13 17:25:54,581 - LoginPage - INFO - clicked on email field
+2026-01-13 17:25:54,755 - LoginPage - INFO - Entered email
+2026-01-13 17:25:54,922 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:25:55,031 - LoginPage - INFO - Entered Password field
+2026-01-13 17:25:57,188 - LoginPage - INFO - Cleared email field
+2026-01-13 17:25:59,335 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:25:59,393 - LoginPage - INFO - Fetching login page text
+2026-01-13 17:30:41,988 - LoginPage - INFO - clicked on email field
+2026-01-13 17:30:42,170 - LoginPage - INFO - Entered email
+2026-01-13 17:30:42,372 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:30:42,531 - LoginPage - INFO - Entered Password field
+2026-01-13 17:30:44,675 - LoginPage - INFO - Cleared email field
+2026-01-13 17:30:46,757 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:30:46,848 - LoginPage - INFO - Fetching login page text
+2026-01-13 17:36:07,595 - LoginPage - INFO - clicked on email field
+2026-01-13 17:36:07,770 - LoginPage - INFO - Entered email
+2026-01-13 17:36:07,960 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:36:08,068 - LoginPage - INFO - Entered Password field
+2026-01-13 17:36:10,355 - LoginPage - INFO - Cleared email field
+2026-01-13 17:36:12,464 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:36:12,564 - LoginPage - INFO - Fetching login page text
+2026-01-13 17:37:02,425 - LoginPage - INFO - clicked on email field
+2026-01-13 17:37:02,581 - LoginPage - INFO - Entered email
+2026-01-13 17:37:02,840 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:37:02,979 - LoginPage - INFO - Entered Password field
+2026-01-13 17:37:05,123 - LoginPage - INFO - Cleared email field
+2026-01-13 17:37:07,236 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:41:07,990 - LoginPage - INFO - clicked on email field
+2026-01-13 17:41:08,151 - LoginPage - INFO - Entered email
+2026-01-13 17:41:08,355 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:41:08,465 - LoginPage - INFO - Entered Password field
+2026-01-13 17:41:10,719 - LoginPage - INFO - Cleared email field
+2026-01-13 17:41:12,865 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:45:16,148 - LoginPage - INFO - clicked on email field
+2026-01-13 17:45:16,298 - LoginPage - INFO - Entered email
+2026-01-13 17:45:16,462 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:45:16,636 - LoginPage - INFO - Entered Password field
+2026-01-13 17:45:18,773 - LoginPage - INFO - Cleared email field
+2026-01-13 17:45:20,866 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:45:44,177 - LoginPage - INFO - clicked on email field
+2026-01-13 17:45:44,338 - LoginPage - INFO - Entered email
+2026-01-13 17:45:44,527 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:45:44,668 - LoginPage - INFO - Entered Password field
+2026-01-13 17:45:46,799 - LoginPage - INFO - Cleared email field
+2026-01-13 17:45:48,895 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:47:01,967 - LoginPage - INFO - clicked on email field
+2026-01-13 17:47:02,130 - LoginPage - INFO - Entered email
+2026-01-13 17:47:02,328 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:47:02,492 - LoginPage - INFO - Entered Password field
+2026-01-13 17:47:04,647 - LoginPage - INFO - Cleared email field
+2026-01-13 17:47:06,769 - LoginPage - INFO - Cleared Password field
+2026-01-13 17:47:53,861 - LoginPage - INFO - clicked on email field
+2026-01-13 17:47:54,003 - LoginPage - INFO - Entered email
+2026-01-13 17:47:54,225 - LoginPage - INFO - Clicked on password field
+2026-01-13 17:47:54,371 - LoginPage - INFO - Entered Password field
+2026-01-13 17:47:56,533 - LoginPage - INFO - Cleared email field
+2026-01-13 17:47:58,660 - LoginPage - INFO - Cleared Password field
+2026-01-14 11:47:16,202 - LoginPage - INFO - clicked on email field
+2026-01-14 11:47:16,397 - LoginPage - INFO - Entered email
+2026-01-14 11:47:16,491 - LoginPage - INFO - Clicked on password field
+2026-01-14 11:47:16,583 - LoginPage - INFO - Entered Password field
+2026-01-14 11:47:18,681 - LoginPage - INFO - Cleared email field
+2026-01-14 11:47:21,009 - LoginPage - INFO - Cleared Password field
